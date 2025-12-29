@@ -30,10 +30,10 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diego-escouto&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-escouto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
@@ -46,18 +46,17 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/diego-escouto-9663b4127/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/5549999403917" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/diego_escouto/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGLddDGzffbGWTXLwDwQPpRGcsxlhSxsvFCgmfnpkjJCQfMwgXkKNNxCvzWddSfdVrwwPMP" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Escouto-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-escouto/)
+&nbsp;&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/5549999403917)
+&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-diego__escouto-purple?logo=instagram)](https://www.instagram.com/diego_escouto/)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:diegonzales72@gmail.com)
+
+
+
 
 ###
